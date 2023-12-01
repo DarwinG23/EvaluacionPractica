@@ -8,6 +8,6 @@ package controlador;
  *
  * @author darwi
  */
-public class NewClass {
+public class VentanillaControlador {
     
 }
